@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "秘密インシデント",
   "base_artist": "≠ME",
-  "createdAt": "2026-01-09T10:35:29.702667Z",
+  "createdAt": "2026-03-25T10:46:06.242193Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "≠ME",
       "has_synced": false,
       "path": "select/pl_01_秘密インシデント_≠ME.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "秘密インシデント",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/localdb_01_秘密インシデント_≠ME.lrc",
+      "repo_name": "dpSgsHxhWbA"
     }
   ]
 }
